@@ -16,22 +16,24 @@ These modules has been bundled up and published in a github pages.</p>
   </tr>
   <tr>
     <td>Module-2</td>
-    <td>Module-2 Website</td>
+    <td><a href = "https://mrkc2303.github.io/coursera-test/module2-solution/">Module-2 Website</a></td>
     <td><a href = "https://github.com/mrkc2303/coursera-test/tree/main/module2-solution">Module-2 Code</a></td>
   </tr>
   <tr>
     <td>Module-3</td>
-    <td>Module-3 Website</td>
+    <td><a href = "https://mrkc2303.github.io/coursera-test/module3-solution/">Module-3 Website</a></td>
     <td><a href = "https://github.com/mrkc2303/coursera-test/tree/main/module3-solution">Module-3 Code</a></td>
   </tr>
   <tr>
     <td>Module-4</td>
-    <td>Module-4 Website</td>
+    <td><a href = "https://mrkc2303.github.io/coursera-test/module4-solution/">Module-4 Website</a></td>
     <td><a href = "https://github.com/mrkc2303/coursera-test/tree/main/module4-solution">Module-4 Code</a></td>
   </tr>
   <tr>
     <td>Module-5</td>
-    <td>Module-5 Website</td>
+    <td><a href = "https://mrkc2303.github.io/coursera-test/module5-solution/">Module-5 Website</a></td>
     <td><a href = "https://github.com/mrkc2303/coursera-test/tree/main/module5-solution">Module-5 Code</a></td>
   </tr>
 </table>
+
+THANK YOU!
